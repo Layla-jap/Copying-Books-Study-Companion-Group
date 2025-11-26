@@ -72,5 +72,7 @@ a=b,a<b，b<a
 对任意的 a,b,c∈Z，a+c≤b+c   a≤b；
 对任意的a,b,c∈N，若c=ab,则a≤c,等候当且仅当b=1时成立。
 对任意的a,b∈Z及c∈N，ac≤bc   a≤b
-对任意的a,b,c
+对任意的a,b∈Z.a≤b.  -a≥-b
+在整数中还引入了绝对值的概念。
+
 
